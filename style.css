@@ -1,0 +1,30 @@
+input{margin: 12px;; width: 50px;
+}
+/* img{border-style:;} */
+h2{margin: 10px;}
+div{
+    border-radius: 18px;
+    border: 2px solid rgb(229, 221, 221) ;
+    margin: 5px;
+    padding: 4px;
+    width: 240px;
+    
+} 
+img{
+    border-radius: 15px;
+    /* border: 7px solid rgb(216, 232, 233);
+ */
+}
+.box{
+    white-space: nowrap;
+    border-radius: 18px;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    margin-left:70px; 
+    width: 69px;
+    color: rgb(72, 0, 255);
+    background-color: rgb(160, 187, 232);
+    
+}
+
